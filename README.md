@@ -5,4 +5,8 @@ Finding meteories using python and NASA data
 
 This project requires Python 3 and the request package.
 
-`python3 find_meteors.py`
+First, install pipenv.  Then:
+```
+pipenv install 
+pipenv run "python find_meteors.py"
+```
